@@ -1,5 +1,7 @@
 Cuando la Nube se defiende Sola. Remediación Automática en AWS.
 
+![LuisLunar](https://github.com/user-attachments/assets/c83bcf6f-1203-4d08-8659-fd91aba10d53)
+
 💥 Cuando la nube se defiende sola ☁️
 
 Imagina una infraestructura que detecta y corrige sus vulnerabilidades sin intervención humana ⚡.
